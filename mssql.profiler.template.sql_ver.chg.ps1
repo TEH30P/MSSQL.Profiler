@@ -17,7 +17,7 @@
 	<none>
 .EXAMPLE
 	mssql.profiler.template.sql_ver.chg.ps1 try_105.tdf try_13.tdf 13
-	Will change 
+	Will create file try_13.tdf with target sql server 2016 (version 13.0).
 .LINK
 	https://github.com/TEH30P/MSSQL.Profiler
 #>
